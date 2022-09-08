@@ -1,2 +1,2 @@
-# FAKE API JSON SERVER
-## Crafty Furniture App
+#  API JSON SERVER
+## Hi Studio
