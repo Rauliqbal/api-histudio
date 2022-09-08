@@ -2,13 +2,15 @@
    {
       "key": "cafe-street-landing-page",
       "title": "Cafe Street - E Commerce Landing Page",
+      "category" : "Website Design",
       "img": "https://public-files.gumroad.com/uau1r8cpomxk5n965vf5ml5gsq5p",
       "price": "$4"
    },
    {
       "key": "cafe-street-landing-page",
       "title": "Cafe Street - E Commerce Landing Page",
+      "category" : "App Design",
       "img": "https://public-files.gumroad.com/uau1r8cpomxk5n965vf5ml5gsq5p",
-      "price": "$4"
+      "price": "$5"
    }
 ]
