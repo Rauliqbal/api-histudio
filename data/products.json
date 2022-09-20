@@ -7,10 +7,17 @@
       "price": "$4"
    },
    {
-      "key": "cafe-street-landing-page",
-      "title": "Cafe Street - E Commerce Landing Page",
-      "category" : "App Design",
-      "img": "https://public-files.gumroad.com/uau1r8cpomxk5n965vf5ml5gsq5p",
-      "price": "$5"
+      "key": "lets-cook-ui-kit",
+      "title": "Let's Food UI Kit - Landing Page",
+      "category" : "Website Design",
+      "img": "https://public-files.gumroad.com/akl09f4x76jnnawss4mshf1ce5ee",
+      "price": "$0"
+   },
+   {
+      "key": "simple-portfolio-web",
+      "title": "Personal Portfolio Website - Template Landing Page",
+      "category" : "Website Developer",
+      "img": "https://public-files.gumroad.com/icbuqy0i0tgiygb9h31y6s8nt1ih",
+      "price": "$0"
    }
 ]
