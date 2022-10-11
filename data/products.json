@@ -1,26 +1,34 @@
 [
-  {
-    "key": "cafe-street-landing-page",
-    "title": "Cafe Street - E Commerce Landing Page",
-    "category": "Website Design",
-    "img": "https://public-files.gumroad.com/uau1r8cpomxk5n965vf5ml5gsq5p",
-    "price": "$4",
-    "url": "cafe-street"
-  },
-  {
-    "key": "lets-cook-ui-kit",
-    "title": "Let's Food UI Kit - Landing Page",
-    "category": "Website Design",
-    "img": "https://public-files.gumroad.com/akl09f4x76jnnawss4mshf1ce5ee",
-    "price": "$0",
-    "url": "lets-cook-ui-kit"
-  },
-  {
-    "key": "simple-portfolio-web",
-    "title": "Personal Portfolio Website - Template Landing Page",
-    "category": "Website Template",
-    "img": "https://public-files.gumroad.com/icbuqy0i0tgiygb9h31y6s8nt1ih",
-    "price": "$0",
-    "url": "simple-portfolio-web"
-  }
+   {
+      "key": "cafe-street-landing-page",
+      "title": "Cafe Street - E Commerce Landing Page",
+      "category": "Website Design",
+      "img": "https://public-files.gumroad.com/uau1r8cpomxk5n965vf5ml5gsq5p",
+      "price": "$4",
+      "url": "cafe-street"
+   },
+   {
+      "key": "lets-cook-ui-kit",
+      "title": "Let's Food UI Kit - Landing Page",
+      "category": "Website Design",
+      "img": "https://public-files.gumroad.com/akl09f4x76jnnawss4mshf1ce5ee",
+      "price": "$0",
+      "url": "lets-cook-ui-kit"
+   },
+   {
+      "key": "simple-portfolio-web",
+      "title": "Personal Portfolio Website - Template Landing Page",
+      "category": "Website Template",
+      "img": "https://public-files.gumroad.com/icbuqy0i0tgiygb9h31y6s8nt1ih",
+      "price": "$0",
+      "url": "simple-portfolio-web"
+   },
+   {
+      "key": "furnilux-landing-page",
+      "title": "FurniLux - Landing Page Desing",
+      "category": "Website Design",
+      "img": "https://public-files.gumroad.com/u9fxdqz98tjj649v6ig9g4emes93",
+      "price": "$1",
+      "url": "furnilux"
+   }
 ]
