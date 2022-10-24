@@ -4,16 +4,18 @@
       "title": "Cafe Street - E Commerce Landing Page",
       "category": "Website Design",
       "img": "https://public-files.gumroad.com/uau1r8cpomxk5n965vf5ml5gsq5p",
-      "price": "4",
+      "price": "2",
+      "disc_price": "4",
       "url": "cafe-street"
    },
    {
-      "key": "lets-cook-ui-kit",
+      "key": "lets-food-ui-kit",
       "title": "Let's Food UI Kit - Landing Page",
       "category": "Website Design",
       "img": "https://public-files.gumroad.com/akl09f4x76jnnawss4mshf1ce5ee",
       "price": "0",
-      "url": "lets-cook-ui-kit"
+      "disc_price": "2",
+      "url": "lets-food-ui-kit"
    },
    {
       "key": "simple-portfolio-web",
@@ -21,6 +23,7 @@
       "category": "Website Template",
       "img": "https://public-files.gumroad.com/icbuqy0i0tgiygb9h31y6s8nt1ih",
       "price": "0",
+      "disc_price": "2",
       "url": "simple-portfolio-web"
    },
    {
@@ -29,6 +32,7 @@
       "category": "Website Design",
       "img": "https://public-files.gumroad.com/u9fxdqz98tjj649v6ig9g4emes93",
       "price": "3",
+      "disc_price": "1",
       "url": "furnilux"
    }
 ]
