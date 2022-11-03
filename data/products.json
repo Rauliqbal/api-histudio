@@ -1,6 +1,6 @@
 [
    {
-      "_id": "1",
+      "id": "1",
       "title": "FurniLux - Landing Page Design",
       "category": "Website Design",
       "img": "https://public-files.gumroad.com/u9fxdqz98tjj649v6ig9g4emes93",
@@ -9,7 +9,7 @@
       "url": "furnilux"
    },
    {
-      "_id": "2",
+      "id": "2",
       "title": "Personal Portfolio Website - Template Landing Page",
       "category": "Website Template",
       "img": "https://public-files.gumroad.com/icbuqy0i0tgiygb9h31y6s8nt1ih",
@@ -18,7 +18,7 @@
       "url": "simple-portfolio-web"
    },
    {
-      "_id": "3",
+      "id": "3",
       "title": "Cafe Street - E Commerce Landing Page",
       "category": "Website Design",
       "img": "https://public-files.gumroad.com/uau1r8cpomxk5n965vf5ml5gsq5p",
@@ -27,7 +27,7 @@
       "url": "cafe-street"
    },
    {
-      "_id": "4",
+      "id": "4",
       "title": "Let's Food UI Kit - E Commerce Landing Page",
       "category": "Website Design",
       "img": "https://public-files.gumroad.com/akl09f4x76jnnawss4mshf1ce5ee",
